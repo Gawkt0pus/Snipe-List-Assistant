@@ -1,8 +1,6 @@
-# Snipe-List-Assistant
-
 # Snipe List Calculator
 
-A simple tool to calculate important dates for prospect tagging.
+A simple tool to calculate dates for 45 and 3 day sniping.
 
 ## Usage
 1. Download `snipe-calculator.vbs`
